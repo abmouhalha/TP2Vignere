@@ -1,5 +1,3 @@
-Voici une version du fichier au format `README.md` pour ton projet :
-
 ```markdown
 # Théorie des Codes - TP 2: Chiffrement de Vigenère
 
